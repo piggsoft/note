@@ -9,3 +9,4 @@
 9. file-icons
 10. language-diff
 11. language-hyperlink
+12. markdown-writer
