@@ -10,3 +10,4 @@
 10. language-diff
 11. language-hyperlink
 12. markdown-writer
+13. markdown-pdf
