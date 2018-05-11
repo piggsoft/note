@@ -1,0 +1,4 @@
+* 卸载
+```shell
+rpm -qa | grep java | xargs rpm -e --nodeps
+```
